@@ -105,8 +105,7 @@ The implementation follows OAuth 2.0 best practices including:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd oauth2-node
+git clone https://github.com/rvega1204/OAuth2-Nodejs.git
 ```
 
 ### 2. Install dependencies for each server
